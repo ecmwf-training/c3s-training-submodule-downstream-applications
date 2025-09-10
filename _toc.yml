@@ -2,9 +2,10 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro-jupyter-template
+root: intro
 chapters:
-- file: jupyter-notebook-template-copernicus
+- file: wind-storms-1.ipynb
+- file: wind-storms-2.ipynb
 #   title: Title to appear on the left hand pane (Defaults to the Title in the notebook)
 # - file: example-notebook
 #   title: Example notebook
