@@ -168,3 +168,5 @@ cython_debug/
 
 # MyST build outputs
 _build
+
+.qa-tools
